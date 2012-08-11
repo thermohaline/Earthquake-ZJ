@@ -35,12 +35,14 @@ public final class R {
         public static final int menu_preferences=0x7f060004;
         public static final int menu_settings=0x7f060001;
         public static final int quake_feed=0x7f060003;
+        public static final int search_description=0x7f060005;
         public static final int title_activity_earthquake=0x7f060002;
     }
     public static final class style {
         public static final int AppTheme=0x7f070000;
     }
     public static final class xml {
-        public static final int userpreferences=0x7f040000;
+        public static final int searchable=0x7f040000;
+        public static final int userpreferences=0x7f040001;
     }
 }

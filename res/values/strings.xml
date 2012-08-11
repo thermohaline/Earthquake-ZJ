@@ -5,5 +5,5 @@
     <string name="title_activity_earthquake">EarthquakeActivity</string>
     <string name="quake_feed">http://earthquake.usgs.gov/eqcenter/catalogs/1day-M2.5.xml</string>
     <string name="menu_preferences">Preferences</string>
-    
+    <string name="search_description">Search Earthquake locations</string>
 </resources>
