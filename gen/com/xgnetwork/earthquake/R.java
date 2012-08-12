@@ -21,8 +21,9 @@ public final class R {
         public static final int ic_launcher=0x7f020001;
     }
     public static final class id {
-        public static final int EarthquakeListFragment=0x7f090000;
-        public static final int menu_settings=0x7f090001;
+        public static final int EarthquakeListFragment=0x7f090001;
+        public static final int menu_settings=0x7f090002;
+        public static final int searchView=0x7f090000;
     }
     public static final class layout {
         public static final int activity_earthquake=0x7f030000;
@@ -32,6 +33,7 @@ public final class R {
     }
     public static final class string {
         public static final int app_name=0x7f060000;
+        public static final int earthquake_search=0x7f060006;
         public static final int menu_preferences=0x7f060004;
         public static final int menu_settings=0x7f060001;
         public static final int quake_feed=0x7f060003;
