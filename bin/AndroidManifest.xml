@@ -40,6 +40,8 @@
             android:name=".PreferencesActivity"
             android:label="Earthquake Preferences">
         </activity>
+        <service android:enabled="true" 
+            android:name=".EarthquakeUpdateService"/>
     </application>
 
 </manifest>
